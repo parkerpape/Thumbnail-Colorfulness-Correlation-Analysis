@@ -1,0 +1,15 @@
+pandas
+numpy
+opencv-python
+matplotlib
+matplotlib.pyplot
+matplotlib.ticker
+requests
+scikit-learn
+seaborn
+cv2
+from bs4 import BeautifulSoup
+from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+from scipy.stats import pearsonr
+from io import BytesIO
+from PIL import Image
