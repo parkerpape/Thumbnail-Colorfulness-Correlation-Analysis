@@ -28,7 +28,7 @@ This project uses Hasler and Süsstrunk's 2003 method to quantify the "colorfuln
 
 ## 📚 Report
 
-- The full link to the report can be found [here]([url](https://docs.google.com/document/d/1zcmSVYVmVQ2QLdSVP9JOtWVX3iHA-2AL9eAJN5dZYl0/edit?tab=t.bn23an2ws9og)).
+- The full link to the report can be found [here](https://docs.google.com/document/d/1zcmSVYVmVQ2QLdSVP9JOtWVX3iHA-2AL9eAJN5dZYl0/edit?tab=t.bn23an2ws9og).
 
 ## 📂 Repository Structure
 
