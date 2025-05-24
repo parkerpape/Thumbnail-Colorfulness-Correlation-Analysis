@@ -26,6 +26,10 @@ This project uses Hasler and Süsstrunk's 2003 method to quantify the "colorfuln
 - **P-value:** 1.319e-20  
 - **Sample Size:** 773 out of 1000 entries
 
+## 📚 Report
+
+- The full link to the report can be found [here]([url](https://docs.google.com/document/d/1zcmSVYVmVQ2QLdSVP9JOtWVX3iHA-2AL9eAJN5dZYl0/edit?tab=t.bn23an2ws9og)).
+
 ## 📂 Repository Structure
 
 See the folders for notebooks, reusable code, and outputs. Each step is clearly documented.
